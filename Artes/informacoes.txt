@@ -1,0 +1,23 @@
+Bem-vindo ao nosso gerenciador de disciplina.
+
+=============================================
+Este programa tem a finalidade de armazenar notas de provas e trabalhos de
+alunos da disciplina SSC0600 - Introducao a Ciencias da Computacao I da USP
+Sao Carlos. Dessa forma, ele possui um formato padrao para cada aluno:
+
+   ->A disciplina possui exatamente 2 provas e 3 trabalhos. Portanto, esse eh
+o maximo de informacoes academicas que podem ser armazenadas.
+
+   ->Para o melhor registro de cada aluno, deve ser adicionado tambem o
+respectivo numero USP.
+
+   ->Para armazenar os trabalhos, voce deve inserir, primeiramente, a nota
+total atribuida ao grupo, aquela que nao possui os descontos por posicao.
+Depois, insira a posicao do aluno no grupo que o programa armazenara a nota
+ja com a posicao referente. Por fim, para que consigamos relacionar os grupos,
+voce deve inserir um numero para cada grupo, a fim de podermos indentificar-
+-los quando for requisitado. Eh obvio mas nao custa lembrar. Por favor, de
+nomes distintos a cada grupo.
+
+   ->As opcoes sobre o que fazer com o programa estao muito bem detalhadas ao
+longo dos menus. Dessa forma, basta segui-los.

@@ -1,0 +1,6 @@
+Escolha a opcao desejada:
+-Digite "A" para incluir/remover/consultar alunos;
+-Digite "P" para incluir/remover/consultar provas e notas de provas;
+-Digite "T" para incluir/remover/consultar trabalhos e notas de trabalhos;
+-Digite "I" para informacoes a respeito deste gerenciador;
+-Digite "Q" para sair.

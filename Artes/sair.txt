@@ -1,0 +1,5 @@
+Obrigado por utilizar o sistema!
+
+Esse programa foi desenvolvido por Alexandre Batistella Bellas,
+Augusto Ribeiro Castro e Igor Rodrigues Guedes, alunos da engenharia 
+de computacao da USP Sao Carlos.
